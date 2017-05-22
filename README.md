@@ -1,5 +1,5 @@
 # DollarCrunchers
-Major Factors Effecting CAS - US exchange rates
+Major Factors Effecting CAD - US exchange rates
 
 Public Github Repository: https://github.com/joinudit/DollarCrunchers
 
